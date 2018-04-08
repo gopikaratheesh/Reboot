@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Reboot</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="User_Name">User Name</string>
+    <string name="Sign_in">Sign In</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password </string>
+    <string name="confirm_password">Confirm Password </string>
+    <string name="create_account">Create Account</string>
+    <string name="Register">Register</string>
+    <string name="login">Log in</string>
+    <string name="info">Hello MEC!!!!</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="str1">Reboot, a fundamental platform to evolve and advance the innovative minds that might even take us to the next phase of space travel.....\n\n We are born for Revolutionary change,not Incremental change."</string>
+    <string name="str2">There is no limit to the amount of good you can do and it is amazing what you can accomplish.\n We ,here envy a great many people who hit their target and led their dreams into reality.\n We shouldn\'t wait for anybody anymore....run as fast as we can, fly as high as we can.....\n Here we are going to soar and you can come with us!! \nYour small thoughts can make a bigger change.</string>
+    <string name="str3">The science of today is the technology of tomorrow. \nYes..!\n the technology that empowers people to do what they want to do, \n that lets people be creative,\n that lets people be productive, \n that lets people learn and do things they thought they could never do,\n And so here,it is all about potential.</string>
+    <string name="str4">It is true that all reboots are attractive,in a way. After death, when the virus took hold and the body rebooted, the skin cleared,the body sharpened,the eyes glowed. It was like pretty with a hint of power.\n  Two choices:\n To step forward into growth\n OR\n To step back under the shadow of wings..\n  Use the form to join :\h https://goo.gl/forms/zzwYdcicDm1Xv7Ro2 \n  For more details \n Email : inonex.reboot@gmail.com  \n Student in charge : Nikhil M Jeby \n phone : +91 8156915169 </string>
+</resources>
